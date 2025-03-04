@@ -2,11 +2,11 @@
     {
       "id": 1,
       "name": "Presale Contract",
-      "value": "G7NGR2hSq4xAV79zbCpfLi7YdLwH67YnKmSNZCTJpump"
+      "value": "0x612d5717638C8a733AC399d041b265CaA2D7c6Cd"
     },
     {
       "id": 2,
-      "name": "Rate in SOL",
+      "name": "Rate in BNB",
       "value": "2500"
     },
     {
@@ -27,7 +27,7 @@
     {
       "id": 6,
       "name": "Token Contract",
-      "value": "G7NGR2hSq4xAV79zbCpfLi7YdLwH67YnKmSNZCTJpump"
+      "value": "0x612d5717638C8a733AC399d041b265CaA2D7c6Cd"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
     {
       "id": 14,
       "name": "Owner Wallet",
-      "value": "Aafe47RJDDiJcKTq1JqHwiS1yfJf6tCq9tpcAaKgqp5C"
+      "value": "0x612d5717638C8a733AC399d041b265CaA2D7c6Cd"
     }
     
   ]
