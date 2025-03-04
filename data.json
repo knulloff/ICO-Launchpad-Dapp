@@ -7,22 +7,22 @@
     {
       "id": 2,
       "name": "Rate in BNB",
-      "value": "300000"
+      "value": "2500"
     },
     {
       "id": 3,
       "name": "Title",
-      "value": "0xFactory Presale"
+      "value": "STARfrog Presale"
     },
     {
       "id": 4,
       "name": "Description",
-      "value": "ZXF is the native token that powers the thriving ecosystem of 0xFactory. ZXF plays a pivotal role in facilitating and enhancing the functionality of our platform, enabling users to fully engage with the innovative features and services we offer."
+      "value": "STF is the native token that powers the thriving ecosystem of Starfrog. $STF plays a pivotal role in facilitating and enhancing the functionality of our platform, enabling users to fully engage with the innovative features and services we offer."
     },
     {
       "id": 5,
       "name": "Token Name",
-      "value": "ZeroX Factory"
+      "value": "STAR FROG"
     },
     {
       "id": 6,
@@ -32,7 +32,7 @@
     {
       "id": 7,
       "name": "Token Symbol",
-      "value": "ZXF"
+      "value": "STF"
     },
     {
       "id": 8,
@@ -47,27 +47,27 @@
     {
       "id": 10,
       "name": "Tokens For Presale",
-      "value": "300000000"
+      "value": "500000000"
     },
     {
       "id": 11,
       "name": "Presale Start Time",
-      "value": "2023.07.01 15:00 (UTC)"
+      "value": "2025.03.03 1:00 (UTC)"
     },
     {
       "id": 12,
       "name": "Presale End Time",
-      "value": "2023.08.01 15:00 (UTC)"
+      "value": "2025.05.03 1:00 (UTC)"
     },
     {
       "id": 13,
       "name": "Affiliate Commission %",
-      "value": "7"
+      "value": "5"
     },
     {
       "id": 14,
       "name": "Owner Wallet",
-      "value": "0xB61a6DF7A2d95d3870193aa859E26AE5Cc1a89Fd"
+      "value": "0x612d5717638C8a733AC399d041b265CaA2D7c6Cd"
     }
     
   ]
